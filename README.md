@@ -1,0 +1,4 @@
+- Welcome to Horizonix. 👋
+- We create free resources for Roblox Developers. 🆓
+- We have 3 Developers at the moment. 3️⃣
+- We like to make Roblox Studio Plugins. 🔌
